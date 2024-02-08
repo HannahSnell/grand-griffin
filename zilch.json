@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "Grand Griffin",
+  "avatar": "Gi2mMcdbOI3yahCaa",
+  "preferredColor": "vermilion",
+  "language": "javascript.node",
+  "game": "table-tennis",
+  "run": "node main.js"
+}
